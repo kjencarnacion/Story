@@ -1,0 +1,1 @@
+New multiplatform app templates set up new projects to easily share code among iOS, iPadOS, and macOS using SwiftUI and the new lifecycle APIs. The project structure encourages sharing code across all platforms, while creating special custom experiences for each platform where it makes sense for your app.

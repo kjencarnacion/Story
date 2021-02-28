@@ -1,0 +1,1 @@
+Swift code is auto-formatted as you type to make common Swift code patterns look much better, including special support for the “guard” command.
