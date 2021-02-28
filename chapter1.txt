@@ -1,0 +1,1 @@
+New tools in Xcode let you create StoreKit files that describe the various subscription and in-app purchase products your app can offer, and create test scenarios to make sure everything works great for your customers — all locally testable on your Mac.
